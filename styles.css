@@ -1,0 +1,34 @@
+body {
+	background: black;
+}
+
+body * {
+	text-transform: lowercase !important;
+}
+
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button,
+.mdl-layout-title {
+  color: white;
+}
+
+.blog1 > .mdl-card__title {
+    color: #fff;
+    background: #9C27B0;
+    /*background: url('media/avatar.png')
+                bottom right 15% no-repeat #46B6AC;*/
+}
+
+.blog2 > .mdl-card__title {
+    color: #fff;
+    background: #2196F3;
+    /*background: url('media/avatar.png')
+                bottom right 15% no-repeat #46B6AC;*/
+}
+
+.blog3 > .mdl-card__title {
+    color: #fff;
+    background: #FFC107;
+    /*background: url('media/avatar.png')
+                bottom right 15% no-repeat #46B6AC;*/
+}

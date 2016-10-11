@@ -1,0 +1,15 @@
+@media (min-width: 461px) {
+
+    .demo-card-square.mdl-card {
+    	width: 70vw;
+    	height: 250px;
+        margin: auto;
+    }
+
+    .header-spacer,
+    .card-spacer,
+    .footer-spacer {
+        height: 22px;
+    }
+
+}
