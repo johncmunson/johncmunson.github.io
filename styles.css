@@ -12,6 +12,14 @@ body * {
   color: white;
 }
 
+.mdl-layout__drawer {
+    z-index: 1;
+}
+
+.mdl-layout-title {
+    color: black;
+}
+
 .blog1 > .mdl-card__title {
     color: #fff;
     background: #9C27B0;
