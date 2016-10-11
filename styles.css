@@ -12,10 +12,6 @@ body * {
   color: white;
 }
 
-.mdl-layout__drawer {
-    z-index: 10;
-}
-
 .mdl-card {
     z-index: -1;
 }
