@@ -16,7 +16,7 @@ body * {
     z-index: -1;
 }
 
-.mdl-layout-title {
+.mdl-layout__drawer .mdl-layout-title {
     color: black;
 }
 
