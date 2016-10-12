@@ -12,9 +12,9 @@ body * {
   color: white;
 }
 
-/*.mdl-card {
-    z-index: 0;
-}*/
+.mdl-layout__drawer {
+    z-index: 100;
+}
 
 .mdl-layout__drawer .mdl-layout-title {
     color: black;
