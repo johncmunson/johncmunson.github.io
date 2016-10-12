@@ -22,14 +22,14 @@ body * {
 
 .blog1 > .mdl-card__title {
     color: #fff;
-    background-image: url('blog3.jpg');
+    background-image: url('blog1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .blog2 > .mdl-card__title {
     color: #fff;
-    background-image: url('blog3.jpg');
+    background-image: url('blog2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
