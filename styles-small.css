@@ -1,5 +1,9 @@
 @media (max-width: 460px) {
 
+    body {
+        padding-left: 15px;
+    }
+
     .demo-card-square.mdl-card {
     	width: 90vw;
     	height: 250px;

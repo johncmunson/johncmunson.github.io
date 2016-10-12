@@ -13,7 +13,7 @@ body * {
 }
 
 .mdl-layout__drawer {
-    z-index: 100 !important;
+    z-index: 10;
 }
 
 .mdl-layout__drawer .mdl-layout-title {
