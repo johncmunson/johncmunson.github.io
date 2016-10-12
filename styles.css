@@ -16,6 +16,10 @@ body * {
     z-index: -1;
 }
 
+.mdl-button {
+    z-index: 1;
+}
+
 .mdl-layout__drawer .mdl-layout-title {
     color: black;
 }
