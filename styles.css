@@ -13,7 +13,7 @@ body * {
 }
 
 .mdl-card {
-    z-index: -1;
+    z-index: 1;
 }
 
 .mdl-layout__drawer .mdl-layout-title {
