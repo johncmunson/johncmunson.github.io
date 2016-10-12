@@ -22,9 +22,9 @@ body * {
 
 .blog1 > .mdl-card__title {
     color: #fff;
-    /*background: #9C27B0;*/
-    background: url('blog3.jpg')
-                bottom right 15% no-repeat #46B6AC;
+    background: #9C27B0;
+    /*background: url('blog3.jpg')
+                bottom right 15% no-repeat #46B6AC;*/
 }
 
 .blog2 > .mdl-card__title {
@@ -36,7 +36,7 @@ body * {
 
 .blog3 > .mdl-card__title {
     color: #fff;
-    background: #FFC107;
-    /*background: url('media/avatar.png')
-                bottom right 15% no-repeat #46B6AC;*/
+    /*background: #FFC107;*/
+    background-image: url('blog3.jpg');
+    background-size: auto 100%;
 }
