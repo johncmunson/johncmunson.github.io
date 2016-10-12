@@ -22,9 +22,9 @@ body * {
 
 .blog1 > .mdl-card__title {
     color: #fff;
-    background: #9C27B0;
-    /*background: url('media/avatar.png')
-                bottom right 15% no-repeat #46B6AC;*/
+    /*background: #9C27B0;*/
+    background: url('blog3.jpg')
+                bottom right 15% no-repeat #46B6AC;
 }
 
 .blog2 > .mdl-card__title {
