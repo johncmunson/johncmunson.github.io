@@ -22,21 +22,15 @@ body * {
 
 .blog1 > .mdl-card__title {
     color: #fff;
-    background-image: url('blog1.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+    background: #AED6F1;
 }
 
 .blog2 > .mdl-card__title {
     color: #fff;
-    background-image: url('blog2.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+    background: #F9E79F;
 }
 
 .blog3 > .mdl-card__title {
     color: #fff;
-    background-image: url('blog3.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+    background: #A3E4D7;
 }
