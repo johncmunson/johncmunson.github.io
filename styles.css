@@ -16,6 +16,10 @@ body * {
     z-index: -1;
 }
 
+.span.mdl-button__ripple-container {
+    z-index: 5;
+}
+
 .mdl-layout__drawer .mdl-layout-title {
     color: black;
 }
